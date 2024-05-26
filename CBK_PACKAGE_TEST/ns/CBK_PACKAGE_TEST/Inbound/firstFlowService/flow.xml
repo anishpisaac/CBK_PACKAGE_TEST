@@ -12,4 +12,8 @@
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT>Second Commit</COMMENT>
 </MAP>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT>Branch Commit only for Boubyan</COMMENT>
+</MAP>
 </FLOW>
